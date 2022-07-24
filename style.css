@@ -1,0 +1,19 @@
+#table{
+    font-weight: bold;
+    font-size: 16px;
+}
+tr{
+    height: 100%;
+
+}
+#extra{
+    border: 0px;
+}
+#table_1{
+    text-transform: capitalize;
+  }
+  #table_1{
+    font-weight: bold;
+    font-size: 16px;
+
+}
